@@ -8,7 +8,7 @@
 
 # Goals
 
-1. Run a app enviroment with Jenkins file
+1. Run a app enviroment with Jenkins
     - build laravel app `Jenkinsfile` script using groovy
 
 2. `Jenkins` to use deploy with `Pipeline`
